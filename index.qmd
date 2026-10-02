@@ -15,5 +15,4 @@ about:
       href: mailto:skdraper7@gmail.com
 ---
 
-I am an Industrial Engineering and Operations Analytics student at the University of Arkansas with interests in analytics, process improvement, and problem solving. This portfolio highlights my academic projects, professional experience, and continued development as an engineering student.
----
+## I am an Industrial Engineering and Operations Analytics student at the University of Arkansas with interests in analytics, process improvement, and problem solving. This portfolio highlights my academic projects, professional experience, and continued development as an engineering student.
